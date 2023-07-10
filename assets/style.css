@@ -1,0 +1,158 @@
+.content{
+  position: relative;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+p {
+color:
+#263238;
+  margin-right: 50px;
+}
+
+.navbar{
+  padding-left: 230px;
+  font-size: 22px;
+  display: flex;
+}
+.navbar:hover{
+  cursor: pointer;
+}
+
+.navbar-home{
+  font-weight: 600;
+}
+
+.description {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -68px;
+  margin-top: 176px;
+}
+
+
+
+
+  .focal-text {
+    width: 888px;
+      height: 300px;
+      position: relative;
+  }
+
+.rectangle{
+  margin-left: 246px;
+  Width :340px;
+  Height: 40px;
+  Top :205px;
+  Left:82px;
+  border-radius :20px;
+  background-color: #D0F6FF;
+}
+
+p.rectangle-text {
+  position: absolute;
+ font-family: inherit;
+  font-weight :600;
+  font-size : 16px;
+  line-height:19.36px;
+  margin-left: 26px;
+  margin-top: 10px;
+}
+
+p.rectangle-text_title {
+  
+  margin-top: 70px;
+  font-family: 'Grandstander', cursive;
+  position: absolute;
+  font-weight :300;
+  font-size : 65px;
+  line-height:64.84px;
+  color: #00334C;
+}
+
+p.rectangle-text_consult {
+  position: absolute;
+  font-weight: inherit;
+  font-weight :500;
+font-size : 18px;
+line-height:21.78px;
+color: #00334C;
+margin-top: 246px;
+}
+
+p.rectangle-text.button {
+  position: absolute;
+  margin-left: 246px;
+  Width :398px;
+  Height: 60px;
+  Top :350px;
+  Left:10px;
+  border-radius :40px;
+  background-color: #D0F6FF;
+}
+span.works-button {
+  display: flex;
+  justify-content: center;
+  /* align-items: end; */
+  margin-top: 5%;
+  font-size: 22px;
+}
+
+.stats{
+  display: flex;
+}
+
+.stats .stats-left{
+  display: flex;
+  margin-top: 440px;
+  margin-left: 250px;
+}
+
+.stats .number{
+  font-weight: bold;
+  font-size: 50px;
+  font-family: Rasa;
+  line-height: 60.9px;
+  color: #000000;
+}
+
+.stats .text {
+  color: #489FB5;
+  display: flex;
+  width: 80px;
+  margin-left: 16px;
+  align-items: center;
+}
+
+.stats-right {
+  margin-top: 440px;
+  display: flex;
+  margin-left: 24px;
+}
+
+.ellipe {
+  margin-top: -66px;
+  margin-right: -8px;
+}
+
+img.device-img {
+  margin-left: 116px;
+  width: 523px;
+  margin-top: -490px;
+  height: 523px;
+}
+
+img.ellipe-img {
+  width: 668px;
+  height: 668px;
+}
+
+img.leg-img {
+  margin-left: 351px;
+  width: 121.81px;
+  height: 150.76px;
+  border-radius: 4px;
+}
